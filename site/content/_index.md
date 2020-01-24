@@ -18,7 +18,7 @@ intro:
     knowledge to anyone.
 products: []
 values:
-  heading: ' .'
+  heading: ' .Values'
   text: ' .'
 ---
 
