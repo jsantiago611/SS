@@ -1,7 +1,7 @@
 ---
 title: Bible Study Like a Pro
 subtitle: Helping You Integrate Spiritual Disciplines into your Busy life
-image: img/karen-lau-z_S5m-dqADA-unsplash.jpg
+image: img/carolyn-v-bIwFwR2fSsA-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
